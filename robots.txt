@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://crisarrius.art/sitemap.xml
+Sitemap: https://crisarrius.github.io/sitemap.xml
