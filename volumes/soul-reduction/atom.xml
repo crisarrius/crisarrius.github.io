@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title> - Soul Reduction</title>
-    <link rel="self" type="application/atom+xml" href="https://crisarrius.github.io/volumes/soul-reduction/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://crisarrius.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://crisarrius.com/volumes/soul-reduction/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://crisarrius.com"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2025-07-03T00:00:00+00:00</updated>
-    <id>https://crisarrius.github.io/volumes/soul-reduction/atom.xml</id>
+    <id>https://crisarrius.com/volumes/soul-reduction/atom.xml</id>
     <entry xml:lang="en">
         <title>Interior Plains</title>
         <published>2025-07-03T00:00:00+00:00</published>
@@ -19,10 +19,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://crisarrius.github.io/interior-plains/"/>
-        <id>https://crisarrius.github.io/interior-plains/</id>
+        <link rel="alternate" type="text/html" href="https://crisarrius.com/interior-plains/"/>
+        <id>https://crisarrius.com/interior-plains/</id>
         
-        <content type="html" xml:base="https://crisarrius.github.io/interior-plains/">&lt;p&gt;The trail behind is long; still longer up ahead.
+        <content type="html" xml:base="https://crisarrius.com/interior-plains/">&lt;p&gt;The trail behind is long; still longer up ahead.
 &lt;br&gt;
 The land is dry and barren, unwatered and unfed.
 &lt;br&gt;
@@ -53,10 +53,10 @@ Up high the vultures circle, fresh carrion to eat.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://crisarrius.github.io/final-crucible/"/>
-        <id>https://crisarrius.github.io/final-crucible/</id>
+        <link rel="alternate" type="text/html" href="https://crisarrius.com/final-crucible/"/>
+        <id>https://crisarrius.com/final-crucible/</id>
         
-        <content type="html" xml:base="https://crisarrius.github.io/final-crucible/">&lt;p&gt;The drums are beating more,
+        <content type="html" xml:base="https://crisarrius.com/final-crucible/">&lt;p&gt;The drums are beating more,
 &lt;br&gt;
 Internal drums of war.
 &lt;br&gt;
@@ -123,10 +123,10 @@ A march to final war.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://crisarrius.github.io/the-muse-and-the-music/"/>
-        <id>https://crisarrius.github.io/the-muse-and-the-music/</id>
+        <link rel="alternate" type="text/html" href="https://crisarrius.com/the-muse-and-the-music/"/>
+        <id>https://crisarrius.com/the-muse-and-the-music/</id>
         
-        <content type="html" xml:base="https://crisarrius.github.io/the-muse-and-the-music/">&lt;p&gt;My muse is elusive, a form undefined;
+        <content type="html" xml:base="https://crisarrius.com/the-muse-and-the-music/">&lt;p&gt;My muse is elusive, a form undefined;
 &lt;br&gt;
 Half real, half imagined, a depth unexplained –
 &lt;br&gt;
@@ -165,10 +165,10 @@ My muse is an artist. My muse is an art.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://crisarrius.github.io/endless-search/"/>
-        <id>https://crisarrius.github.io/endless-search/</id>
+        <link rel="alternate" type="text/html" href="https://crisarrius.com/endless-search/"/>
+        <id>https://crisarrius.com/endless-search/</id>
         
-        <content type="html" xml:base="https://crisarrius.github.io/endless-search/">&lt;p&gt;A mind, a soul, a heart unknown,
+        <content type="html" xml:base="https://crisarrius.com/endless-search/">&lt;p&gt;A mind, a soul, a heart unknown,
 &lt;br&gt;
 Unfathomed depths with searching eyes,
 &lt;br&gt;
@@ -208,10 +208,10 @@ Her eyes, her soul, her mind, her heart.
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://crisarrius.github.io/the-vow-and-the-void/"/>
-        <id>https://crisarrius.github.io/the-vow-and-the-void/</id>
+        <link rel="alternate" type="text/html" href="https://crisarrius.com/the-vow-and-the-void/"/>
+        <id>https://crisarrius.com/the-vow-and-the-void/</id>
         
-        <content type="html" xml:base="https://crisarrius.github.io/the-vow-and-the-void/">&lt;h2 id=&quot;the-vow&quot;&gt;The Vow&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://crisarrius.com/the-vow-and-the-void/">&lt;h2 id=&quot;the-vow&quot;&gt;The Vow&lt;&#x2F;h2&gt;
 &lt;p&gt;Too long apart alone in thought;
 &lt;br&gt;
 Depressive and addictive, the music of the mind …
@@ -263,10 +263,10 @@ the war is lost, the fights all fought.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://crisarrius.github.io/soul-reduction/"/>
-        <id>https://crisarrius.github.io/soul-reduction/</id>
+        <link rel="alternate" type="text/html" href="https://crisarrius.com/soul-reduction/"/>
+        <id>https://crisarrius.com/soul-reduction/</id>
         
-        <content type="html" xml:base="https://crisarrius.github.io/soul-reduction/">&lt;p&gt;The soul wanders, the will falters. The world, impossibly mundane.&lt;br&gt;
+        <content type="html" xml:base="https://crisarrius.com/soul-reduction/">&lt;p&gt;The soul wanders, the will falters. The world, impossibly mundane.&lt;br&gt;
 All wants vying, all dreams dying. The soul throbs against the grain. &lt;br&gt;
 New rounds of hope, and joy, illusions, birth crushed delusions, without fail. &lt;br&gt;
 The thoughts, compelling, strong, and dark. Like a fortress … or a jail (?).&lt;&#x2F;p&gt;
