@@ -4,8 +4,42 @@
     <link rel="self" type="application/atom+xml" href="https://crisarrius.github.io/volumes/soul-reduction/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://crisarrius.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2025-06-10T00:00:00+00:00</updated>
+    <updated>2025-07-03T00:00:00+00:00</updated>
     <id>https://crisarrius.github.io/volumes/soul-reduction/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Interior Plains</title>
+        <published>2025-07-03T00:00:00+00:00</published>
+        <updated>2025-07-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://crisarrius.github.io/interior-plains/"/>
+        <id>https://crisarrius.github.io/interior-plains/</id>
+        
+        <content type="html" xml:base="https://crisarrius.github.io/interior-plains/">&lt;p&gt;The trail behind is long; still longer up ahead.
+&lt;br&gt;
+The land is dry and barren, unwatered and unfed.
+&lt;br&gt;
+This is no place to be, yet here I’ve always been,
+&lt;br&gt;
+I’ve walked this walk forever, trapped in the waste within.
+&lt;br&gt;
+I have to walk still further, to hope that change is near,
+&lt;br&gt;
+But all the nerves are blunted to promises or fear.
+&lt;br&gt;
+No one has been searching … now back up on my feet …
+&lt;br&gt;
+Up high the vultures circle, fresh carrion to eat.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>The Final Crucible</title>
         <published>2025-06-10T00:00:00+00:00</published>
