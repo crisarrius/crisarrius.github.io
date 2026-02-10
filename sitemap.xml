@@ -11,6 +11,14 @@
         <loc>https://crisarrius.com/categories/</loc>
     </url>
     <url>
+        <loc>https://crisarrius.com/death-poem1/</loc>
+        <lastmod>2026-01-01</lastmod>
+    </url>
+    <url>
+        <loc>https://crisarrius.com/death-poem2/</loc>
+        <lastmod>2026-02-05</lastmod>
+    </url>
+    <url>
         <loc>https://crisarrius.com/endless-search/</loc>
         <lastmod>2025-05-20</lastmod>
     </url>
@@ -34,6 +42,9 @@
     </url>
     <url>
         <loc>https://crisarrius.com/tags/ascent/</loc>
+    </url>
+    <url>
+        <loc>https://crisarrius.com/tags/death/</loc>
     </url>
     <url>
         <loc>https://crisarrius.com/tags/decay/</loc>
